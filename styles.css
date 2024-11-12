@@ -1,0 +1,37 @@
+.footer {
+    background-color: #8B0000; /* Color de fondo rojo oscuro */
+    color: white;
+    padding: 20px;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .footer-section p {
+    margin-right: 15px;
+    font-size: 14px;
+  }
+  
+  .footer-section img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .footer-section a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-section a:hover {
+    text-decoration: underline;
+  }
